@@ -37,7 +37,7 @@ In order to run this project, you need:
 Clone this repository to your desired folder:
 
 ```sh
-git clone https://github.com/FevenSeyfu/song-Mern-app.git
+git clone https://github.com/pankia/song_management_app.git
 cd song-Mern-app
 
 ### Install
