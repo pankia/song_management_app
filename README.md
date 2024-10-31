@@ -8,7 +8,7 @@
 <!-- LIVE DEMO -->
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- API DOC -->
 
@@ -17,7 +17,7 @@
 The Backend Rest API of the song APP is Deployed on render
 - [Backend URL](https://song-api-pncl.onrender.com/songs/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 
@@ -59,7 +59,6 @@ To run the project, execute the following command:
   npm start
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -70,8 +69,6 @@ To run the project, execute the following command:
 - GitHub: [@githubhandle](https://github.com/pankia)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -80,7 +77,6 @@ To run the project, execute the following command:
 - [x] **[fetch and display song list along with overall song statistics]**
 - [x] **[filter and display songs by artist,album genre and albums grouped by artist]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -90,7 +86,7 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- SUPPORT -->
 
@@ -98,7 +94,7 @@ Feel free to check the [issues page](../../issues/).
 
 If you find this project useful and it adds value to your work, consider showing your support by giving it a ⭐️ (star). Your feedback and support are incredibly motivating.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LICENSE -->
 
@@ -106,4 +102,4 @@ If you find this project useful and it adds value to your work, consider showing
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
