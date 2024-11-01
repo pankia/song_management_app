@@ -38,7 +38,7 @@ Clone this repository to your desired folder:
 
 ```sh
 git clone https://github.com/pankia/song_management_app.git
-cd song-Mern-app
+cd song_management_app
 
 ### Install
 
