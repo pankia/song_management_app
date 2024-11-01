@@ -51,6 +51,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object"
     "@types/rebass": "^4.0.15"
   }
 }
