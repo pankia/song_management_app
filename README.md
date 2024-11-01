@@ -44,6 +44,14 @@ cd song_management_app
 
 Install this project with:
 
+git clone https://github.com/pankia/song_management_app.git
+cd song_management_app
+
+### Install
+
+Install this project with:
+
+```sh
   cd frontend
   npm install
 ```
