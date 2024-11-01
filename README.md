@@ -44,7 +44,6 @@ cd song_management_app
 
 Install this project with:
 
-```sh
   cd frontend
   npm install
 ```
